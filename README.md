@@ -1,7 +1,7 @@
 # Hi there, I'm Pavel Voitov! 👋
 ### And I'm a Frontend Developer! 💻
 
-![LinkedIn](https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
+![Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## About me:
 1+ year of experience commercial and project development.
