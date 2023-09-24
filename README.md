@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there, I'm Pavel Voitov! 👋
+### And I'm a Frontend Developer! 💻
 
-<!--
-**PavelVoitov/PavelVoitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+1+ years of experience commercial and project development.
+I develop web applications and sites in JavaScript
+and TypeScript with primary use React, Redux.
+I have experience as an individual developing projects from scratch,
+as well as experience in team. I have backend development skills
+parts of applications using Node.js and Express.
+I constantly exchange experiences, and I am learning new technologies.
 
-Here are some ideas to get you started:
+## Languages and Tools:
+![JavaScript](https://img.shields.io/badge/JavaScript-23272f?logo=javascript)
+![JavaScript](https://img.shields.io/badge/TypeScript-23272f?logo=typescript)
+![React](https://img.shields.io/badge/React-23272f?logo=react)
+![Redux](https://img.shields.io/badge/Redux-23272f?logo=redux)
+![html5](https://img.shields.io/badge/HTML-23272f?logo=html5)
+![ss3](https://img.shields.io/badge/CSS-23272f?logo=css3)
+![sass](https://img.shields.io/badge/SASS-23272f?logo=sass)
+![Git](https://img.shields.io/badge/Git-23272f?logo=git)
+![next](https://img.shields.io/badge/Next.js-23272f?logo=next.js)
+![node](https://img.shields.io/badge/Node.js-23272f?logo=node.js)
+![node](https://img.shields.io/badge/Express-23272f?logo=express)
+![mui](https://img.shields.io/badge/MaterialUI-23272f?logo=mui)
+![postman](https://img.shields.io/badge/Postman-23272f?logo=postman)
+![Storybook](https://img.shields.io/badge/Storybook-23272f?logo=storybook)
+![axios](https://img.shields.io/badge/axios-23272f?logo=axios)
+![swagger](https://img.shields.io/badge/swagger-23272f?logo=swagger)
+![github](https://img.shields.io/badge/GitHub-23272f?logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Stats:
+
+
+Contacts: 
+
+pictures: 
