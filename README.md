@@ -1,8 +1,10 @@
 # Hi there, I'm Pavel Voitov! 👋
 ### And I'm a Frontend Developer! 💻
 
+![LinkedIn](https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
+
 ## About me:
-1+ years of experience commercial and project development.
+1+ year of experience commercial and project development.
 I develop web applications and sites in JavaScript
 and TypeScript with primary use React, Redux.
 I have experience as an individual developing projects from scratch,
@@ -30,8 +32,10 @@ I constantly exchange experiences, and I am learning new technologies.
 ![github](https://img.shields.io/badge/GitHub-23272f?logo=github)
 
 ## My Stats:
+[![PavelVoitov's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelVoitov&show_icons=true&theme=tokyonight)](https://github.com/PavelVoitov/github-readme-stats)
 
+## Contacts:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pavel-voitov/)
+[![Telegram](https://img.shields.io/badge/Telegram-white?logo=telegram)](https://t.me/voitov_pavel)
+[![X](https://img.shields.io/badge/-black?logo=x)](https://x.com/pavel_voitov)
 
-Contacts: 
-
-pictures: 
