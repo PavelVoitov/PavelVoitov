@@ -32,6 +32,7 @@ I constantly exchange experiences, and I am learning new technologies.
 ![github](https://img.shields.io/badge/GitHub-23272f?logo=github)
 
 ## My Stats:
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PavelVoitov)](https://github.com/PavelVoitov/github-readme-stats)
 [![PavelVoitov's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelVoitov&show_icons=true&theme=tokyonight)](https://github.com/PavelVoitov/github-readme-stats)
 
 ## Contacts:
