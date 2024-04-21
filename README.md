@@ -4,7 +4,6 @@
 ![Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## About me:
-1+ year of experience commercial and project development.
 I develop web applications and sites in JavaScript
 and TypeScript with primary use React, Redux.
 I have experience as an individual developing projects from scratch,
