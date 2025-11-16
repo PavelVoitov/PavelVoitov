@@ -74,8 +74,8 @@ I love learning new technologies, improving architectures, building useful produ
 ![Storybook](https://img.shields.io/badge/Storybook-23272f?logo=storybook)
 ![Axios](https://img.shields.io/badge/Axios-23272f?logo=axios)
 
-## My Stats:
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PavelVoitov)](https://github.com/PavelVoitov/github-readme-stats)
+## My Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelVoitov&layout=compact&theme=dark&hide_border=true)
 
 ## Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pavel-voitov/)
