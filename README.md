@@ -74,8 +74,8 @@ I love learning new technologies, improving architectures, building useful produ
 ![Storybook](https://img.shields.io/badge/Storybook-23272f?logo=storybook)
 ![Axios](https://img.shields.io/badge/Axios-23272f?logo=axios)
 
-## My Stats
-![Metrics](https://metrics.lecoq.io/PavelVoitov?template=classic&languages=1&languages.limit=8&theme=dark)
+### 🛠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,nodejs,python,docker,postgres,linux)
 
 ## Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pavel-voitov/)
