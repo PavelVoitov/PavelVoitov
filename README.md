@@ -75,7 +75,7 @@ I love learning new technologies, improving architectures, building useful produ
 ![Axios](https://img.shields.io/badge/Axios-23272f?logo=axios)
 
 ## My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelVoitov&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=PavelVoitov&theme=dark&hide_border=true)
 
 ## Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pavel-voitov/)
