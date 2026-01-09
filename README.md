@@ -1,8 +1,6 @@
 # Hi there, I'm Pavel Voitov! 👋
 ### And I'm a Frontend Developer! 💻
 
-![Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 ![Frontend Developer Workspace](frontender.png)
 
 ## About Me
