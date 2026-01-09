@@ -3,6 +3,8 @@
 
 ![Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+![Frontend Developer Workspace](frontender.png)
+
 ## About Me
 
 I’m a Frontend Developer building modern web and mobile applications using JavaScript, TypeScript, and React ecosystem.
